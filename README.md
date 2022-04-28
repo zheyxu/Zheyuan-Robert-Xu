@@ -1,4 +1,13 @@
-### On to GrandMaster of Full Stack Developer  👋
+## On to Grandmaster of Full Stack Developer
+### Frontend 
+
+- [ ] Flutter Mid-level to High-leve
+- [ ] React   Enter-level to Mid-level
+### Backend 
+
+- [ ] Fastapi Official tutorial
+- [ ] Azure Basic knowledge
+
 
 <!--
 **Zheyuan-Robert-Xu/Zheyuan-Robert-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
